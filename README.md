@@ -4,7 +4,7 @@
 
 Soy argentino de 28 años egresado de la carrera de Ingeniería en Alimentos y graduado del bootcamp #SoyHenry como Desarrollador Web Full Stack. Soy amante de la tecnología, lo cual me llevo a descubrir mi pasión por la programación. Actualmente estoy proyectando mi futuro laboral en este ambito, buscando siempre la continua incorporacion de conocimientos y capacitación en la diversas tecnologias que emergen día a día. Quiero compartir con ustedes mi perfil. ¡¡Bienvenidos!!
 
-- 📣 Actualmente estoy en busca de mi primer empleo como desarrollador web full stack.
+- 📣 Actualmente estoy en busca de mi primer empleo como Desarrollador Web Full Stack.
 - 👨‍💻 Me encuentro reforzando constantemente mis conocimientos en mis habilidades tecnicas ya adquiridas. 
 - 📚 Me hallo en el aprendizaje de nuevas tecnologias como TypeScript, React Native y React Context.
 
