@@ -36,7 +36,7 @@ Full Stack Web Developer, Ingeniero de Procesos y ex-estudiante de intercambio. 
 
 <h3> PROYECTOS 📂 </h3>
 
-- <b>Proyecto grupal:</b> E-commerce de todo tipo de vestimenta, brindando a los usuarios la posibilidad tanto de comprar productos de diversas tiendas, como también de crear su propia tienda y vender sus productos. El proyecto fue realizado por un grupo de 8 integrantes y los principales logros fueron la autenticación de terceros, pasarela de pagos, usuario moderador, notificaciones, reseñas, control de stock y estadisticas de ventas.
+- <b>Proyecto grupal:</b> E-commerce de todo tipo de vestimenta, brindando a los usuarios la posibilidad tanto de comprar productos de diversas tiendas, como también de crear su propia tienda y vender sus productos. Los principales logros fueron la autenticación de terceros, pasarela de pagos, usuario moderador, notificaciones, reseñas, control de stock y estadisticas de ventas.
 
 
 - <b>Proyecto individual:</b> Single Page Application, consumiendo y almacenando información de una API externa. La API utilizada brindaba diversa información sobre los países del mundo como la capital, continente, idioma/s, población, bandera, entre otros. Los principales logros fueron diversos filtros, ordenamientos, paginado, barra de busqueda y formularios controlados.
