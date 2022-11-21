@@ -2,16 +2,16 @@
 
 ### Sobre mí
 
-Full Stack Web Developer, Ingeniero en Procesos y ex-estudiante de intercambio. Soy amante de la tecnología, lo cual me llevo a descubrir mi pasión por la programación. Actualmente estoy proyectando mi futuro laboral en este ambito, buscando siempre la continua incorporacion de conocimientos y capacitación en las diversas tecnologias que emergen día a día. Quiero compartir con ustedes mi perfil. ¡¡Bienvenidos!!
+Full Stack Web Developer, Ingeniero en Procesos y ex-estudiante de intercambio. Como persona con gran automotivación y responsabilidad, soy capaz de adaptarme a cualquier ámbito de trabajo, fomentando siempre el trabajo en equipo e impulsando valores de colaboración y compañerismo. Por mi experiencia sociocultural como estudiante de intercambio, poseo marcadas habilidades de comunicación eficaz y aprendizaje ágil. Quiero compartir con ustedes mi perfil. ¡¡Bienvenidos!!
 
 - 📣 Actualmente estoy en busca de nuevos desafíos como Full Stack Web Developer.
 - 👨‍💻 Me encuentro reforzando constantemente mis habilidades tecnicas y blandas ya adquiridas. 
-- 📚 Me hallo en el continuo aprendizaje de nuevas tecnologias como TypeScript, React Native y React Context.
+- 📚 Me hallo en el continuo aprendizaje de nuevas tecnologias como TypeScript, React Native, React Context, entre otras.
 
 ---
 
 
-### Habilidades tecnicas
+### Habilidades tecnicas 💻
 
 <img src = "https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -48,7 +48,7 @@ Full Stack Web Developer, Ingeniero en Procesos y ex-estudiante de intercambio. 
 
 
 
-<h3> 🤝🏻 Contacta conmigo </h3>
+<h3> Contacta conmigo 🤝</h3>
 
 
 
