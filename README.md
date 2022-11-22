@@ -66,7 +66,8 @@ Full Stack Web Developer, Ingeniero de Procesos y ex-estudiante de intercambio. 
 
 
 <h3> CV 📄</h3>
-<a href="https://docs.google.com/document/d/1IpEh81fq8WE8sk0XU_roW1aopF88pPxf/edit?usp=sharing&ouid=115741070587579583898&rtpof=true&sd=true"> Curriculum Vitae </a>
+<a href="https://docs.google.com/document/d/1IpEh81fq8WE8sk0XU_roW1aopF88pPxf/edit?usp=sharing&ouid=115741070587579583898&rtpof=true&sd=true" rel="noreferrer"
+            target="_blank"> Curriculum Vitae </a>
 
 
 
