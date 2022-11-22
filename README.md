@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="270"/>
   <div id="badges">
 
-# Hola, soy Micael Picco <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hola, soy Micael Picco <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> 
 
 ### SOBRE MÍ  🎯
 
-Full Stack Web Developer, Ingeniero de Procesos y ex-estudiante de intercambio. Como persona con gran automotivación y responsabilidad, soy capaz de adaptarme a cualquier ámbito de trabajo, fomentando siempre el trabajo en equipo e impulsando valores de colaboración y compañerismo. Por mi experiencia sociocultural como estudiante de intercambio, poseo marcadas habilidades de comunicación eficaz y aprendizaje ágil. Quiero compartir con ustedes mi perfil. ¡¡Bienvenidos!!
+Full Stack Web Developer, Ingeniero de Procesos y ex-estudiante de intercambio. Como persona con gran automotivación y responsabilidad, soy capaz de adaptarme a cualquier ámbito de trabajo, fomentando siempre el trabajo en equipo e impulsando valores de colaboración y compañerismo. Por mi experiencia sociocultural como estudiante de intercambio, poseo marcadas habilidades de comunicación eficaz y aprendizaje ágil.
 
  <h4>📣 Actualmente estoy en busca de nuevos desafíos como Full Stack Web Developer.</h4>
  <h4>👨‍💻 Me encuentro reforzando constantemente mis habilidades tecnicas y blandas ya adquiridas. </h4>
@@ -36,10 +36,10 @@ Full Stack Web Developer, Ingeniero de Procesos y ex-estudiante de intercambio. 
 
 <h3> PROYECTOS 📂 </h3>
 
--<b>Proyecto grupal:</b> E-commerce de todo tipo de vestimenta, brindando a los usuarios la posibilidad tanto de comprar productos de diversas tiendas, como también de crear su propia tienda y vender sus productos. Los principales logros fueron la autenticación de terceros, pasarela de pagos, moderador, notificaciones, reseñas, control de stock y estadisticas de ventas.
+✅ <b>PROYECTO GRUPAL:</b> E-commerce de todo tipo de vestimenta, brindando a los usuarios la posibilidad tanto de comprar productos de diversas tiendas, como también de crear su propia tienda y vender sus productos. Los principales logros fueron la autenticación de terceros, pasarela de pagos, moderador, notificaciones, reseñas, control de stock y estadisticas de ventas. <a href="https://express-clothes.vercel.app/"> DEPLOY 📌</a>
 
 
--<b>Proyecto individual:</b> Single Page Application, consumiendo y almacenando información de una API externa. La API utilizada brindaba diversa información sobre los países del mundo como la capital, continente, idioma/s, población, bandera, entre otros. Los principales logros fueron diversos filtros, ordenamientos, paginado, barra de busqueda y formularios controlados.
+✅ <b>PROYECTO INDIVIDUAL:</b> Single Page Application, consumiendo y almacenando información de una API externa que brindaba diversa información sobre los países del mundo. Los principales logros fueron diversos filtros, ordenamientos, paginado, barra de busqueda y formularios controlados. <a href="https://clientdeploy.vercel.app/"> DEPLOY 📌</a>
 
 <hr>
 
