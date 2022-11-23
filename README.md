@@ -6,7 +6,7 @@
 
 ### SOBRE MÍ  🎯
 
-Full Stack Web Developer, Ingeniero de Procesos y ex-estudiante de intercambio. Como persona con gran automotivación y responsabilidad, soy capaz de adaptarme a cualquier ámbito de trabajo, fomentando siempre el trabajo en equipo e impulsando valores de colaboración y compañerismo. Por mi experiencia sociocultural como estudiante de intercambio, poseo marcadas habilidades de comunicación eficaz y aprendizaje ágil.
+Full Stack Web Developer e Ingeniero de Procesos. Como persona con gran automotivación y responsabilidad, soy capaz de adaptarme a cualquier ámbito de trabajo, fomentando siempre el trabajo en equipo e impulsando valores de colaboración y compañerismo. Por mi experiencia sociocultural como estudiante de intercambio poseo marcadas habilidades de comunicación eficaz y aprendizaje ágil.
 
  <h4>📣 Actualmente estoy en busca de nuevos desafíos como Full Stack Web Developer.</h4>
  <h4>👨‍💻 Me encuentro reforzando constantemente mis habilidades tecnicas y blandas ya adquiridas. </h4>
@@ -32,16 +32,7 @@ Full Stack Web Developer, Ingeniero de Procesos y ex-estudiante de intercambio. 
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 <hr>
-    
-
-<h3> PROYECTOS 📂 </h3>
-
-✅ <b>PROYECTO GRUPAL:</b> E-commerce de todo tipo de vestimenta, brindando a los usuarios la posibilidad tanto de comprar productos de diversas tiendas, como también de crear su propia tienda y vender sus productos. Los principales logros fueron la autenticación de terceros, pasarela de pagos, moderador, notificaciones, reseñas, control de stock y estadisticas de ventas. <a href="https://express-clothes.vercel.app/"> DEPLOY 📌</a>
-
-
-✅ <b>PROYECTO INDIVIDUAL:</b> Single Page Application, consumiendo y almacenando información de una API externa que brindaba diversa información sobre los países del mundo. Los principales logros fueron diversos filtros, ordenamientos, paginado, barra de busqueda y formularios controlados. <a href="https://clientdeploy.vercel.app/"> DEPLOY 📌</a>
-
-<hr>
+ 
 
 <h3> ESTADÍSTICAS 📊 </h3>
 
