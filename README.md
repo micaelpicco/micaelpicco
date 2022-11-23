@@ -50,7 +50,6 @@ Full Stack Web Developer e Ingeniero de Procesos. Soy una persona curiosa con de
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaelpicco&show_icons=true)
 
 
 
