@@ -10,7 +10,7 @@ Full Stack Web Developer e Ingeniero de Procesos. Como persona con gran automoti
 
  <h4>📣 Actualmente estoy en busca de nuevos desafíos como Full Stack Web Developer.</h4>
  <h4>👨‍💻 Me encuentro reforzando constantemente mis habilidades tecnicas y blandas ya adquiridas. </h4>
- <h4>📚 Me hallo en el continuo aprendizaje de nuevas tecnologias como TypeScript, React Native, React Context, entre otras.</h4>
+ <h4>📚 Estoy aprendiendo nuevas tecnologias como TypeScript, React Native y mas.</h4>
 
 ---
 
