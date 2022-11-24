@@ -43,10 +43,11 @@ Full Stack Web Developer e Ingeniero de Procesos. Soy una persona curiosa con de
 <img  align='left' alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <img  align='right' alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-[![micaelpicco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=micaelpicco&show_icons=true)](https://github.com/micaelpicco)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=micaelpicco&show_icons=true&locale=en&layout=compact" alt="micaelpicco" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=micaelpicco&show_icons=true&locale=en" alt="micaelpicco" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=micaelpicco&" alt="micaelpicco" /></p>
 
 
 
