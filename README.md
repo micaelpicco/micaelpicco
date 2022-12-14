@@ -50,28 +50,28 @@ Full Stack Web Developer e Ingeniero de Procesos. Soy una persona curiosa con de
 
 ### PROYECTOS 💻 
 
-<h3>▪️ E-commerce "Express Clothes" - Proyecto grupal</h3> E-commerce de compra y venta de todo tipo de vestimenta con la posibilidad de crear tu propia tienda y vender tus productos. Si quieres saber mas sobre el proyecto haz click <a href="https://github.com/micaelpicco/E-commerce">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://express-clothes.vercel.app">aqui</a> o en la imagen.
+<h3>▪️ E-commerce "Express Clothes" - Proyecto grupal ▪️</h3> E-commerce de compra y venta de todo tipo de vestimenta con la posibilidad de crear tu propia tienda y vender tus productos. Si quieres saber mas sobre el proyecto haz click <a href="https://github.com/micaelpicco/E-commerce">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://express-clothes.vercel.app">aqui</a> o en la imagen.
     
 <a href="https://express-clothes.vercel.app">
   <img src="https://github.com/07krW5Hnr5ghy/07krW5Hnr5ghy/blob/main/Screenshot%20from%202022-11-07%2011-03-30.png?raw=true" width=500 
  />
 </a>
   
-  <h3>▪️ Single Page Application "Countries App" - Proyecto inidividual</h3> La aplicación ofrece al usuario una lista de todos los paises del mundo con la posibilidad tanto de filtrarlos y ordenarlos, como tambien la de crear actividades turísticas en ellos. <a href="https://github.com/micaelpicco/Proyecto-Individual">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://countriesapp-deploy.vercel.app/home">aqui</a> o en la imagen.
+  <h3>▪️ Single Page Application "Countries App" - Proyecto inidividual ▪️</h3> La aplicación ofrece al usuario una lista de todos los paises del mundo con la posibilidad tanto de filtrarlos y ordenarlos, como tambien la de crear actividades turísticas en ellos. <a href="https://github.com/micaelpicco/Proyecto-Individual">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://countriesapp-deploy.vercel.app/home">aqui</a> o en la imagen.
     
 <a href="https://countriesapp-deploy.vercel.app/home">
   <img src="https://github.com/07krW5Hnr5ghy/07krW5Hnr5ghy/blob/main/Screenshot%20from%202022-11-07%2011-03-30.png?raw=true" width=500
  />
 </a>
 
-<h3>▪️ "Weather App" - Proyecto inidividual</h3> La aplicación ofrece al usuario la posibilidad de buscar y saber las condiciones metereológicas presentes y futuras de cualquier ciudad del mundo. <a href="https://github.com/micaelpicco/weather-app">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://weather-app-eight-rho.vercel.app/">aqui</a> o en la imagen.
+<h3>▪️ "Weather App" - Proyecto inidividual ▪️</h3> La aplicación ofrece al usuario la posibilidad de buscar y saber las condiciones metereológicas presentes y futuras de cualquier ciudad del mundo. <a href="https://github.com/micaelpicco/weather-app">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://weather-app-eight-rho.vercel.app/">aqui</a> o en la imagen.
     
 <a href="https://weather-app-eight-rho.vercel.app/">
   <img src="https://github.com/07krW5Hnr5ghy/07krW5Hnr5ghy/blob/main/Screenshot%20from%202022-11-07%2011-03-30.png?raw=true" width=500
  />
 </a>
 
-<h3>▪️ CRUD App "Memories" - Proyecto inidividual</h3> La aplicación ofrece al usuario la posibilidad de crear, ver, editar y eliminar recuerdos de viajes y lugares visitados. <a href="https://github.com/micaelpicco/memoriesApp-client">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://technotes-32d2.onrender.com/">aqui</a> o en la imagen.
+<h3>▪️ CRUD App "Memories" - Proyecto inidividual ▪️</h3> La aplicación ofrece al usuario la posibilidad de crear, ver, editar y eliminar recuerdos de viajes y lugares visitados. <a href="https://github.com/micaelpicco/memoriesApp-client">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://technotes-32d2.onrender.com/">aqui</a> o en la imagen.
 
  <a></a>
 <a href="https://technotes-32d2.onrender.com/">
