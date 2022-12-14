@@ -8,7 +8,7 @@
 
 Full Stack Web Developer e Ingeniero de Procesos. Soy una persona curiosa con deseo constante de crear y aprender nuevas cosas, capaz de adaptarme a cualquier ámbito de trabajo, fomentando siempre el trabajo en equipo e impulsando valores de compromiso y compañerismo. Por mi experiencia personal como estudiante de intercambio poseo marcadas habilidades de comunicación eficaz, aprendizaje ágil y adaptabilidad.
 
- <h4>📣 Actualmente estoy en busca de nuevos desafíos como Full Stack Web Developer.</h4>
+ <h4>📣 Actualmente estoy en busca de nuevos desafíos como Desarrollador Web Full Stack.</h4>
  <h4>👨‍💻 Me encuentro reforzando constantemente mis habilidades tecnicas y blandas ya adquiridas. </h4>
  <h4>📚 Estoy aprendiendo nuevas tecnologias como React Native y mas.</h4>
 
@@ -50,31 +50,32 @@ Full Stack Web Developer e Ingeniero de Procesos. Soy una persona curiosa con de
 
 ### PROYECTOS 💻 
 
-<h4>▪️ E-commerce "Express Clothes" - Proyecto grupal: </h4> E-commerce de compra y venta de todo tipo de vestimenta con la posibilidad de crear tu propia tienda y vender tus productos. Si quieres saber mas sobre el proyecto haz click <a href="https://github.com/micaelpicco/E-commerce">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://express-clothes.vercel.app">aqui</a> o en la imagen.
+<h3>▪️ E-commerce "Express Clothes" - Proyecto grupal</h3> E-commerce de compra y venta de todo tipo de vestimenta con la posibilidad de crear tu propia tienda y vender tus productos. Si quieres saber mas sobre el proyecto haz click <a href="https://github.com/micaelpicco/E-commerce">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://express-clothes.vercel.app">aqui</a> o en la imagen.
     
 <a href="https://express-clothes.vercel.app">
-  <img src="https://github.com/07krW5Hnr5ghy/07krW5Hnr5ghy/blob/main/Screenshot%20from%202022-11-07%2011-03-30.png?raw=true" width=600 height=400
+  <img src="https://github.com/07krW5Hnr5ghy/07krW5Hnr5ghy/blob/main/Screenshot%20from%202022-11-07%2011-03-30.png?raw=true" width=500 
  />
 </a>
   
-  <h4>▪️ Single Page Application "Countries App" - Proyecto inidividual: </h4> La aplicación ofrece al usuario una lista de todos los paises del mundo con la posibilidad tanto de filtrarlos y ordenarlos, como tambien la de crear actividades turísticas en ellos. <a href="https://github.com/micaelpicco/Proyecto-Individual">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://countriesapp-deploy.vercel.app/home">aqui</a> o en la imagen.
+  <h3>▪️ Single Page Application "Countries App" - Proyecto inidividual</h3> La aplicación ofrece al usuario una lista de todos los paises del mundo con la posibilidad tanto de filtrarlos y ordenarlos, como tambien la de crear actividades turísticas en ellos. <a href="https://github.com/micaelpicco/Proyecto-Individual">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://countriesapp-deploy.vercel.app/home">aqui</a> o en la imagen.
     
 <a href="https://countriesapp-deploy.vercel.app/home">
-  <img src="https://github.com/07krW5Hnr5ghy/07krW5Hnr5ghy/blob/main/Screenshot%20from%202022-11-07%2011-03-30.png?raw=true" width=600 height=400
+  <img src="https://github.com/07krW5Hnr5ghy/07krW5Hnr5ghy/blob/main/Screenshot%20from%202022-11-07%2011-03-30.png?raw=true" width=500
  />
 </a>
 
-<h4>▪️ "Weather App" - Proyecto inidividual: </h4> La aplicación ofrece al usuario la posibilidad de buscar y saber las condiciones metereológicas presentes y futuras de cualquier ciudad del mundo. <a href="https://github.com/micaelpicco/weather-app">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://weather-app-eight-rho.vercel.app/">aqui</a> o en la imagen.
+<h3>▪️ "Weather App" - Proyecto inidividual</h3> La aplicación ofrece al usuario la posibilidad de buscar y saber las condiciones metereológicas presentes y futuras de cualquier ciudad del mundo. <a href="https://github.com/micaelpicco/weather-app">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://weather-app-eight-rho.vercel.app/">aqui</a> o en la imagen.
     
 <a href="https://weather-app-eight-rho.vercel.app/">
-  <img src="https://github.com/07krW5Hnr5ghy/07krW5Hnr5ghy/blob/main/Screenshot%20from%202022-11-07%2011-03-30.png?raw=true" width=600 height=400
+  <img src="https://github.com/07krW5Hnr5ghy/07krW5Hnr5ghy/blob/main/Screenshot%20from%202022-11-07%2011-03-30.png?raw=true" width=500
  />
 </a>
 
-<h4>▪️ CRUD App "Memories" - Proyecto inidividual: </h4> La aplicación ofrece al usuario la posibilidad de crear, ver, editar y eliminar recuerdos de viajes y lugares visitados. <a href="https://github.com/micaelpicco/memoriesApp-client">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://technotes-32d2.onrender.com/">aqui</a> o en la imagen.
-    
+<h3>▪️ CRUD App "Memories" - Proyecto inidividual</h3> La aplicación ofrece al usuario la posibilidad de crear, ver, editar y eliminar recuerdos de viajes y lugares visitados. <a href="https://github.com/micaelpicco/memoriesApp-client">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://technotes-32d2.onrender.com/">aqui</a> o en la imagen.
+
+ <a></a>
 <a href="https://technotes-32d2.onrender.com/">
-  <img src="https://github.com/07krW5Hnr5ghy/07krW5Hnr5ghy/blob/main/Screenshot%20from%202022-11-07%2011-03-30.png?raw=true" width=600 height=400
+<img src="https://github.com/07krW5Hnr5ghy/07krW5Hnr5ghy/blob/main/Screenshot%20from%202022-11-07%2011-03-30.png?raw=true" width=500
  />
 </a>
 
