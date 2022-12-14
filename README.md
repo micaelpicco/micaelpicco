@@ -57,7 +57,7 @@ Full Stack Web Developer e Ingeniero de Procesos. Soy una persona curiosa con de
  />
 </a>
   
-  <h3>▪️ Single Page Application "Countries App" - Proyecto inidividual ▪️</h3> La aplicación ofrece una lista de todos los paises del mundo con la posibilidad tanto de filtrarlos y ordenarlos, como tambien de crear actividades turísticas en ellos. Si quieres saber mas sobre el proyecto haz click <a href="https://github.com/micaelpicco/Proyecto-Individual">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://countriesapp-deploy.vercel.app/home">aqui</a> o en la imagen.
+  <h3>▪️ Single Page Application "Countries App" - Proyecto inidividual ▪️</h3> La aplicación ofrece una lista de todos los paises del mundo con la posibilidad de filtrarlos y ordenarlos, como tambien de crear actividades turísticas en ellos. Si quieres saber mas sobre el proyecto haz click <a href="https://github.com/micaelpicco/Proyecto-Individual">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://countriesapp-deploy.vercel.app/home">aqui</a> o en la imagen.
     
 <a href="https://countriesapp-deploy.vercel.app/home">
   <img src="https://github.com/micaelpicco/micaelpicco/blob/main/Countries App.png?raw=true" width=500 align="center"
