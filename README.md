@@ -57,14 +57,14 @@ Full Stack Web Developer e Ingeniero de Procesos. Soy una persona curiosa con de
  />
 </a>
   
-  <h3>▪️ Single Page Application "Countries App" - Proyecto inidividual ▪️</h3> La aplicación ofrece al usuario una lista de todos los paises del mundo con la posibilidad tanto de filtrarlos y ordenarlos, como tambien de crear actividades turísticas en ellos. Si quieres saber mas sobre el proyecto haz click <a href="https://github.com/micaelpicco/Proyecto-Individual">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://countriesapp-deploy.vercel.app/home">aqui</a> o en la imagen.
+  <h3>▪️ Single Page Application "Countries App" - Proyecto inidividual ▪️</h3> La aplicación ofrece una lista de todos los paises del mundo con la posibilidad tanto de filtrarlos y ordenarlos, como tambien de crear actividades turísticas en ellos. Si quieres saber mas sobre el proyecto haz click <a href="https://github.com/micaelpicco/Proyecto-Individual">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://countriesapp-deploy.vercel.app/home">aqui</a> o en la imagen.
     
 <a href="https://countriesapp-deploy.vercel.app/home">
   <img src="https://github.com/micaelpicco/micaelpicco/blob/main/Countries App.png?raw=true" width=500 align="center"
  />
 </a>
 
-<h3>▪️ "Weather App" - Proyecto inidividual ▪️</h3> La aplicación ofrece al usuario la posibilidad de buscar y saber las condiciones metereológicas presentes y futuras de cualquier ciudad del mundo. Si quieres saber mas sobre el proyecto haz click <a href="https://github.com/micaelpicco/weather-app">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://weather-app-eight-rho.vercel.app/">aqui</a> o en la imagen.
+<h3>▪️ "Weather App" - Proyecto inidividual ▪️</h3> La aplicación ofrece la posibilidad de buscar las condiciones metereológicas presentes y futuras de cualquier ciudad del mundo. Si quieres saber mas sobre el proyecto haz click <a href="https://github.com/micaelpicco/weather-app">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://weather-app-eight-rho.vercel.app/">aqui</a> o en la imagen.
     
 <a href="https://weather-app-eight-rho.vercel.app/">
   <img src="https://github.com/micaelpicco/micaelpicco/blob/main/Weather App.png?raw=true" width=500 align="center"
