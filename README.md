@@ -61,7 +61,7 @@ Full Stack Web Developer e Ingeniero de Procesos. Soy una persona curiosa con de
   <h3>▪️ Single Page Application "Countries App" - Proyecto inidividual ▪️</h3> La aplicación ofrece una lista de paises con la posibilidad de filtrarlos y ordenarlos, como tambien de crear actividades turísticas en ellos. Si quieres saber mas sobre el proyecto haz click <a href="https://github.com/micaelpicco/Proyecto-Individual">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://countriesapp-deploy.vercel.app/home">aqui</a> o en la imagen.
     
 <a href="https://countriesapp-deploy.vercel.app/home">
-  <img src="https://github.com/micaelpicco/micaelpicco/blob/main/Countries App.png?raw=true" width=500 align="center"
+  <img src="https://github.com/micaelpicco/micaelpicco/blob/main/paises.png?raw=true" width=500 align="center"
  />
 </a>
 
@@ -76,7 +76,7 @@ Full Stack Web Developer e Ingeniero de Procesos. Soy una persona curiosa con de
 
  <a></a>
 <a href="https://technotes-32d2.onrender.com/">
-<img src="https://github.com/micaelpicco/micaelpicco/blob/main/Memories App.png?raw=true" width=500 align="center"
+<img src="https://github.com/micaelpicco/micaelpicco/blob/main/memorias.png?raw=true" width=500 align="center"
  />
 </a>
     
@@ -85,7 +85,7 @@ Full Stack Web Developer e Ingeniero de Procesos. Soy una persona curiosa con de
 
  <a></a>
 <a href="https://shopping-cart-sage-five.vercel.app/">
-<img src="https://github.com/micaelpicco/micaelpicco/blob/main/portada.png?raw=true" width=500 align="center"
+<img src="https://github.com/micaelpicco/micaelpicco/blob/main/cart.png?raw=true" width=500 align="center"
  />
 </a>
 
