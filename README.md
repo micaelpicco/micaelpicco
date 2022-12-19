@@ -79,6 +79,15 @@ Full Stack Web Developer e Ingeniero de Procesos. Soy una persona curiosa con de
 <img src="https://github.com/micaelpicco/micaelpicco/blob/main/Memories App.png?raw=true" width=500 align="center"
  />
 </a>
+    
+
+<h3>▪️ "Shopping Cart Simulator" - Proyecto inidividual ▪️</h3> La aplicación ofrece la posibilidad de simular un carrito de compras, agregando uno o varios productos iguales o diferentes y obteniendo el total a pagar. Si quieres saber mas sobre el proyecto haz click <a href="https://github.com/micaelpicco/shopping-cart">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://shopping-cart-sage-five.vercel.app/">aqui</a> o en la imagen.
+
+ <a></a>
+<a href="https://shopping-cart-sage-five.vercel.app/">
+<img src="https://github.com/micaelpicco/micaelpicco/blob/main/portada.png?raw=true" width=500 align="center"
+ />
+</a>
 
 
  <hr>
