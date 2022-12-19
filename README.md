@@ -72,7 +72,7 @@ Full Stack Web Developer e Ingeniero de Procesos. Soy una persona curiosa con de
  />
 </a>
 
-<h3>▪️ CRUD App "Memories" - Proyecto inidividual ▪️</h3> La aplicación ofrece al usuario la posibilidad de crear, ver, editar y eliminar recuerdos de viajes y lugares visitados. Si quieres saber mas sobre el proyecto haz click <a href="https://github.com/micaelpicco/memoriesApp-client">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://technotes-32d2.onrender.com/">aqui</a> o en la imagen.
+<h3>▪️ CRUD App "Memories" - Proyecto inidividual ▪️</h3> La aplicación ofrece al usuario la posibilidad de crear, ver, editar y eliminar recuerdos de viajes y lugares visitados. Si quieres saber mas sobre el proyecto haz click <a href="https://github.com/micaelpicco/memoriesApp">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://technotes-32d2.onrender.com/">aqui</a> o en la imagen.
 
  <a></a>
 <a href="https://technotes-32d2.onrender.com/">
