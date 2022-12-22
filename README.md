@@ -65,12 +65,7 @@ Full Stack Web Developer e Ingeniero de Procesos. Soy una persona curiosa con de
  />
 </a>
 
-<h3>▪️ "Weather App" - Proyecto inidividual ▪️</h3> La aplicación ofrece la posibilidad de buscar las condiciones metereológicas presentes y futuras de cualquier ciudad del mundo. Si quieres saber mas sobre el proyecto haz click <a href="https://github.com/micaelpicco/weather-app">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://weather-app-eight-rho.vercel.app/">aqui</a> o en la imagen.
-    
-<a href="https://weather-app-eight-rho.vercel.app/">
-  <img src="https://github.com/micaelpicco/micaelpicco/blob/main/Weather App.png?raw=true" width=500 align="center"
- />
-</a>
+
 
 <h3>▪️ CRUD App "Memories" - Proyecto inidividual ▪️</h3> La aplicación ofrece al usuario la posibilidad de crear, ver, editar y eliminar recuerdos de viajes y lugares visitados. Si quieres saber mas sobre el proyecto haz click <a href="https://github.com/micaelpicco/memoriesApp">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://technotes-32d2.onrender.com/">aqui</a> o en la imagen.
 
@@ -86,6 +81,13 @@ Full Stack Web Developer e Ingeniero de Procesos. Soy una persona curiosa con de
  <a></a>
 <a href="https://shopping-cart-sage-five.vercel.app/">
 <img src="https://github.com/micaelpicco/micaelpicco/blob/main/cart.png?raw=true" width=500 align="center"
+ />
+</a>
+    
+<h3>▪️ "Weather App" - Proyecto inidividual ▪️</h3> La aplicación ofrece la posibilidad de buscar las condiciones metereológicas presentes y futuras de cualquier ciudad del mundo. Si quieres saber mas sobre el proyecto haz click <a href="https://github.com/micaelpicco/weather-app">aqui</a>. Si quieres probar la aplicacion haz click <a href="https://weather-app-eight-rho.vercel.app/">aqui</a> o en la imagen.
+    
+<a href="https://weather-app-eight-rho.vercel.app/">
+  <img src="https://github.com/micaelpicco/micaelpicco/blob/main/Weather App.png?raw=true" width=500 align="center"
  />
 </a>
 
