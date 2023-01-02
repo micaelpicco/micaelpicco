@@ -116,7 +116,7 @@ Full Stack Web Developer e Ingeniero de Procesos. Soy una persona curiosa con de
 
 
 <h3> PERSONAL 📌</h3>
-<a href="https://docs.google.com/document/d/1IpEh81fq8WE8sk0XU_roW1aopF88pPxf/edit?usp=sharing&ouid=115741070587579583898&rtpof=true&sd=true"> Curriculum Vitae 📄</a>
+<a href="https://drive.google.com/file/d/1xEvM9DFDl35bRQNbHWiKYtxP9-6Poa1m/view?usp=sharing"> Curriculum Vitae 📄</a>
     <br></br>
     <a href="https://portfolio-ten-theta-53.vercel.app/"> Portafolio 💼</a>
 
