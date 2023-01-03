@@ -4,7 +4,7 @@
 
 # Hi! I'm Micael Picco <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> 
 
-### ABOUT ME  🎯
+### ABOUT ME&nbsp;&nbsp;&nbsp;  🎯
 
 Full Stack Web Developer and Process Engineer. I am a curious person with a constant desire to create and learn new things, able to adapt to any work environment, always encouraging teamwork and promoting values of commitment and fellowship. From my personal experience as an exchange student I possess strong skills of effective communication, agile learning and adaptability.
 
