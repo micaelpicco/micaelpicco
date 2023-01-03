@@ -38,9 +38,9 @@ Full Stack Web Developer and Process Engineer. I am a curious person with a cons
 <img src="https://img.shields.io/badge/-Sequelize-black?style=flat&logo=sequelize&logoColor=blue">
 &nbsp;&nbsp;&nbsp;
 
-  <h5>&nbsp;&nbsp;Teamwork&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h5>
+  <h5>Teamwork&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h5>
 
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+&nbsp;&nbsp;&nbsp;<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
        <img src="http://img.shields.io/badge/-Scrum-black?style=flat&logo=scrum&logoColor=white">
         <img src="http://img.shields.io/badge/-Trello-007ACC?style=flat&logo=trello&logoColor=white">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
