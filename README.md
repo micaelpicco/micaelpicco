@@ -57,8 +57,7 @@ Full Stack Web Developer and Process Engineer. I am a curious person with a cons
  />
 </a>
     
-  
-  <h3>▪️ Single Page Application "Countries App" - Inidividual Project  ▪️</h3> The application offers a list of countries with the possibility to filter and sort them, as well as to create tourist activities in them. If you want to know more about the project click <a href="https://github.com/micaelpicco/Proyecto-Individual">aqui</a>. If you want to try the application click <a href="https://countriesapp-deploy.vercel.app/">here</a> or in the image.
+#  <h3>▪️ Single Page Application "Countries App" - Inidividual Project  ▪️</h3> The application offers a list of countries with the possibility to filter and sort them, as well as to create tourist activities in them. If you want to know more about the project click <a href="https://github.com/micaelpicco/Proyecto-Individual">aqui</a>. If you want to try the application click <a href="https://countriesapp-deploy.vercel.app/">here</a> or in the image.
   
 <a href="https://countriesapp-deploy.vercel.app/">
   <img src="https://github.com/micaelpicco/micaelpicco/blob/main/paises.png?raw=true" width=500 align="center"
@@ -67,7 +66,7 @@ Full Stack Web Developer and Process Engineer. I am a curious person with a cons
 
 
 
-<h3>▪️ CRUD App "Memories" - Inidividual Project ▪️</h3> The application offers the user the ability to create, view, edit and delete memories of trips and places visited. If you want to know more about the project click <a href="https://github.com/micaelpicco/memoriesApp">here</a>. If you want to try the application click <a href="https://technotes-32d2.onrender.com/">here</a> or in the image.
+#  <h3>▪️ CRUD App "Memories" - Inidividual Project ▪️</h3> The application offers the user the ability to create, view, edit and delete memories of trips and places visited. If you want to know more about the project click <a href="https://github.com/micaelpicco/memoriesApp">here</a>. If you want to try the application click <a href="https://technotes-32d2.onrender.com/">here</a> or in the image.
 
  <a></a>
 <a href="https://technotes-32d2.onrender.com/">
@@ -75,7 +74,7 @@ Full Stack Web Developer and Process Engineer. I am a curious person with a cons
  />
 </a>
     
-<h3>▪️ "Shopping Cart Simulator" - Inidividual Project ▪️</h3> The application offers the possibility of simulating a shopping cart, adding one or several products, the same or different, and obtaining the total amount to be paid. If you want to know more about the project click <a href="https://github.com/micaelpicco/shopping-cart">here</a>. If you want to try the application click <a href="https://shopping-cart-sage-five.vercel.app/">here</a> or in the image.
+#  <h3>▪️ "Shopping Cart Simulator" - Inidividual Project ▪️</h3> The application offers the possibility of simulating a shopping cart, adding one or several products, the same or different, and obtaining the total amount to be paid. If you want to know more about the project click <a href="https://github.com/micaelpicco/shopping-cart">here</a>. If you want to try the application click <a href="https://shopping-cart-sage-five.vercel.app/">here</a> or in the image.
 
  <a></a>
 <a href="https://shopping-cart-sage-five.vercel.app/">
@@ -83,7 +82,7 @@ Full Stack Web Developer and Process Engineer. I am a curious person with a cons
  />
 </a>
     
-<h3>▪️ "Weather App" - Inidividual Project ▪️</h3> The application offers the possibility to search for current and future weather conditions for any city in the world. If you want to know more about the project click <a href="https://github.com/micaelpicco/weather-app">here</a>. If you want to try the application click <a href="https://weather-app-eight-rho.vercel.app/">here</a> or in the image.
+#  <h3>▪️ "Weather App" - Inidividual Project ▪️</h3> The application offers the possibility to search for current and future weather conditions for any city in the world. If you want to know more about the project click <a href="https://github.com/micaelpicco/weather-app">here</a>. If you want to try the application click <a href="https://weather-app-eight-rho.vercel.app/">here</a> or in the image.
     
 <a href="https://weather-app-eight-rho.vercel.app/">
   <img src="https://github.com/micaelpicco/micaelpicco/blob/main/Weather App.png?raw=true" width=500 align="center"
