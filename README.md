@@ -57,7 +57,7 @@ Full Stack Web Developer and Process Engineer. I am a curious person with a cons
  />
 </a>
     
-#  <h3>▪️ Single Page Application "Countries App" - Inidividual Project  ▪️</h3> The application offers a list of countries with the possibility to filter and sort them, as well as to create tourist activities in them. If you want to know more about the project click <a href="https://github.com/micaelpicco/Proyecto-Individual">aqui</a>. If you want to try the application click <a href="https://countriesapp-deploy.vercel.app/">here</a> or in the image.
+#  <h3>▪️ Single Page Application "Countries App" - Inidividual Project  ▪️</h3> The application offers a list of countries with the possibility to filter and sort them, as well as to create tourist activities in them. If you want to know more about the project click <a href="https://github.com/micaelpicco/Proyecto-Individual">here</a>. If you want to try the application click <a href="https://countriesapp-deploy.vercel.app/">here</a> or in the image.
   
 <a href="https://countriesapp-deploy.vercel.app/">
   <img src="https://github.com/micaelpicco/micaelpicco/blob/main/paises.png?raw=true" width=500 align="center"
