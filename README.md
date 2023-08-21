@@ -116,7 +116,7 @@ Full Stack Web Developer and Process Engineer. I am a curious person with a cons
 
 
 <h3> PERSONAL 📌</h3>
-<a href="https://drive.google.com/file/d/1UwAFXGcLYxBmmmBYrW2mpQUzPnC7os7c/view?usp=sharing"> Curriculum Vitae 📄</a>
+<a href="https://drive.google.com/file/d/1yu-Ydk0Lmcvao7YoDtPsotL2z9vbaxtj/view?usp=drive_link"> Curriculum Vitae 📄</a>
     <br></br>
     <a href="https://portfolio-ten-theta-53.vercel.app/"> Portfolio 💼</a>
 
